@@ -1,4 +1,3 @@
 
- how to install nodejs 
- 'how to clone a repo'
+ how to install nodejs & how to clone a repo
 
