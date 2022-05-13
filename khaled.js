@@ -1,4 +1,4 @@
-const get_value = () => {
+function get_value() {
     const name = 'Khaled';
     return name; 
 };
